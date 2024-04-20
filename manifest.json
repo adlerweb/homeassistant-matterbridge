@@ -1,0 +1,12 @@
+{
+    "domain": "matterbridge_notify",
+    "name": "Matterbridge Notifications",
+    "codeowners": ["@adlerweb"],
+    "dependencies": [],
+    "documentation": "https://github.com/adlerweb/homeassistant-matterbridge/README.md",
+    "integration_type": "service",
+    "iot_class": "cloud_push",
+    "requirements": ["requests"],
+    "version": "1.0.0"
+  }
+  
