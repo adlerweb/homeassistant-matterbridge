@@ -1,8 +1,11 @@
 # Matterbridge for Home Assistant
 
-# NO, THIS WILL NOT WORK FOR YOUR USECASE
+## NO, THIS IS NOT ABOUT THE MATTER RADIO HOME APPLIANCE SYSTEM
+## NO, THIS WILL NOT WORK FOR YOUR USECASE
 
-This is an integration for Matterbridge notifications. It uses a custom endpoint. Ask @niyawe what the hell is going on on the other side.
+This is an integration for [Matterbridge](https://github.com/42wim/matterbridge) notifications. It uses a custom endpoint. Ask [@niyawe](https://github.com/niyawe) what the hell is going on on the other side.
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 ----
 
